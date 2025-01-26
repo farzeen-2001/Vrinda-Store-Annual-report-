@@ -8,3 +8,5 @@ The dashboard highlights:
 Process:
 Data cleaning: verify the data to check for any missing or null values using filters , made sure the data is consistent according to the format and data type
 creation of pivot tables: created pivot tables according the KPI requirements and applied slicer for months,channels to make dynamic and interactive dashboard
+
+![Screenshot (37)](https://github.com/user-attachments/assets/7ce7decf-b76c-41d9-8061-d0fa5e746f2c)
